@@ -1,4 +1,4 @@
-# Bootcamp prueva JS
+# Bootcamp prueba JS
 Not much, just what the name suggest
 esto es muy parecido a la magia, supongo, calculo, asumo, contemplo, manejo, entrevero, aconsejo, lo que sejo lo dejo en el entrecejo.
 
