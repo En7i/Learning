@@ -4,7 +4,7 @@ esto es muy parecido a la magia, supongo, calculo, asumo, contemplo, manejo, ent
 
 
 posta? what kind of sorcery is this?!?!?!?!
-Herecy, in the name of the omnisiah, repent foul machine!
+Herecy, in the name of the omnissiah, repent foul machine!
 
 # comandos basico para git
 1 - ver acrchivos cambiados git status
