@@ -11,5 +11,6 @@ Herecy, in the name of the omnissiah, repent foul machine!
 2 - agregar los archivos a enviar al repositorio remoto git add .
 3 - guardas los cambios con un mensaje git commit -m "mensaje"
 4 - subir los cambios git push
+5 - traer cambios desde github git pull
 
 nota aparte, aparentemente ahora esta funcionando el commit?
