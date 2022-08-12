@@ -12,5 +12,6 @@ Herecy, in the name of the omnissiah, repent foul machine!
 3 - guardas los cambios con un mensaje git commit -m "mensaje"
 4 - subir los cambios git push
 5 - traer cambios desde github git pull
+6 - para crear una branch estando en main git checkout -b "nombre de branch" pero no usarlo a menudo para moverse de branch porque sobreescribe material
 
 nota aparte, aparentemente ahora esta funcionando el commit?
